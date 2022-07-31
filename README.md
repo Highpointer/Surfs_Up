@@ -1,6 +1,7 @@
 # Surfs_Up
 Module 9 challenge
-Average Temperatures (
+
+Average Temperatur
 June (2010 - 2017)     December (2010-2016)
 
 ![June_temperatures](June_Temp.png) 
