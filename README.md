@@ -20,6 +20,8 @@ Below are data tables of summary statistical analysis for each of the two months
 ![June_temperatures](June_Temp.png) 
 ![Dec_temperatures](Dec_Temp.png) 
 
+•••••••••••• Summary of the results with additional queries to perform ••••••••••••
+
 Based on the initial analysis of these results, there is a high probabilty that this location would make a good location for the surf and ice cream shop. Average temperatures are warm with relatively low variability. Temperatures never approach freezing nor exceed 90° F.
 
 However, these temperature results are based on only 7 or 8 years of data, for only two of of the 12 months of the year. This is a relatively short period of time, so the average values could be skewed if there were several abnormally cool, or abnormally warm, years during the period. Data should be collected over more years and should cover the entire year.
