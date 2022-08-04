@@ -7,7 +7,8 @@ The purpose of this analysis was to perform a statistical comparison of the temp
 
 Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
-• The analysis shows that there is small difference in average temperatures between the months of June and July. 
+• The analysis shows that average tempertures in June are warmer than December by 3.9° F. The average temperature for December is over 71° F so that is still quite warm.
+• December temperatures show greater variability, as the standard deviation for December is greater (3.75 vs. 3.26) and the range between highest and lowest tempertures are greater (27° range in December vs. 21° range in June).
 
 Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 Average Temperatures
